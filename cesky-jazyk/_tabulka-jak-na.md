@@ -83,8 +83,9 @@
   - určit, kolik slok a veršů obsahuje úryvek
   - určit druh rýmu
 
+-	volný rým: nemá pravidelné schéma
 
-  -	střídavý: a, b, a, b
+-	střídavý: a, b, a, b
 
 ```
 Poledne v tom okamžení,    A
@@ -93,7 +94,7 @@ a mně hasne u vaření       A
 pro tebe, ty zlobo, ty!    B
 ```
 
-  - sdružený: a, a, b, b
+- sdružený: a, a, b, b
 
 ```
 Sedí babka při ohnisku,     A
@@ -102,7 +103,7 @@ dvanáct misek v jedné řadě. B
 Pán u baby na poradě.       B
 ```
 
-  - obkročný: a, b, b, a
+- obkročný: a, b, b, a
 
 ```    
 Šuhaj z Hané práce hledí a dbá,    A
@@ -111,7 +112,7 @@ ví, že žena raz za práh přikluše,  B
 tři dny a tři noci bude svatba.    A
 ```
 
-  -	přerývaný: a, b, c, b / a, b, c, a
+-	přerývaný: a, b, c, b / a, b, c, a
 
 ```
 Hoj, ty štědrý večere,  A
@@ -120,7 +121,7 @@ Cože komu dobrého       C
 neseš na památku        B
 ```
 
-  - postupný rým: a, b, c, d; a, b, c, d
+- postupný rým: a, b, c, d; a, b, c, d
 
 ```
 V pokladu zapředeném          A
@@ -130,8 +131,6 @@ Proč na vás zapomenem         A
 sny naše v jitru plavém       B
 již do oken se dívá.          C
 ```
-
-  -	volný rým: nemá pravidelné schéma
 
 - **jazykové prostředky a jejich funkce ve výňatku**
   - týká se pouze prózy a dramatu
