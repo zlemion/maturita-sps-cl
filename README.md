@@ -4,7 +4,6 @@
 ## Okruhy
 
 - Hardware ([okruh]())
-- Informační a komunikační technologie ([okruh]())
 - Matematika ([okruh]())
 - Software ([okruh]())
 - Český Jazyk ([okruh]())
