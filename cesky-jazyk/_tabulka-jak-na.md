@@ -86,47 +86,47 @@
 
 ```
 Poledne v tom okamžení,    A
-táta přijde z roboty:		   B
+táta přijde z roboty:      B
 a mně hasne u vaření       A
-pro tebe, ty zlobo, ty!	   B
+pro tebe, ty zlobo, ty!    B
 ```
 
     - sdružený: a, a, b, b
 
 ```
-Sedí babka při ohnisku,		  A
-měří vodu z misky v misku,	A
-dvanáct misek v jedné řadě.	B
-Pán u baby na poradě.		    B
+Sedí babka při ohnisku,     A
+měří vodu z misky v misku,  A
+dvanáct misek v jedné řadě. B
+Pán u baby na poradě.       B
 ```
 
   	- obkročný: a, b, b, a
 
 ```    
-Šuhaj z Hané práce hledí a dbá,		 A
-aniž v díle prahne po děvuše,		   B
-ví, že žena raz za práh přikluše,	 B
-tři dny a tři noci bude svatba.		 A
+Šuhaj z Hané práce hledí a dbá,    A
+aniž v díle prahne po děvuše,      B
+ví, že žena raz za práh přikluše,  B
+tři dny a tři noci bude svatba.    A
 ```
 
     -	přerývaný: a, b, c, b / a, b, c, a
 
 ```
-Hoj, ty štědrý večere,	A
-ty tajemný svátku!		  B
-Cože komu dobrého		    C
-neseš na památku		    B
+Hoj, ty štědrý večere,  A
+ty tajemný svátku!      B
+Cože komu dobrého       C
+neseš na památku        B
 ```
 
     - postupný rým: a, b, c, d; a, b, c, d
 
 ```
-V pokladu zapředeném		      A
-v svit tmy, plující splavem,	B
-vše sněží a vše splývá.		    C
-Proč na vás zapomenem	        A
-sny naše v jitru plavém		    B
-již do oken se dívá.		      C
+V pokladu zapředeném          A
+v svit tmy, plující splavem,  B
+vše sněží a vše splývá.       C
+Proč na vás zapomenem         A
+sny naše v jitru plavém       B
+již do oken se dívá.          C
 ```
 
     -	volný rým: nemá pravidelné schéma
