@@ -2,6 +2,8 @@
 
 ## Analýza uměleckého textu
 
+### Analýza uměleckého textu
+
 1. část
 
   - zasazení výňatku do kontextu díla
@@ -19,6 +21,11 @@
   - veršová výstavba
 
 1. část
+
+  - jazykové prostředky a jejich funkce ve výňatku
+  - tropy a figury a jejich funkce ve výňatku
+
+### Literárněhistorický kontext
 
   - kontext autorovy tvorby
   - literární / obecně kulturní kontext
