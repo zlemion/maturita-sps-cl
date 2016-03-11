@@ -82,6 +82,8 @@
   - týká se pouze poezie
   - určit, kolik slok a veršů obsahuje úryvek
   - určit druh rýmu
+
+
   -	střídavý: a, b, a, b
 
 ```
