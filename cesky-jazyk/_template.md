@@ -2,7 +2,7 @@
 
 ## Analýza úměleckého textu
 
-### Zasazení výňatku do kontextu dílegal
+### Zasazení výňatku do kontextu díla
 
 ### Téma a motiv
 
@@ -21,10 +21,6 @@
 ### Typy promluv
 
 ### Veršovaná výstavba
-
-### Jazykové prostředky a jejich funkce ve výňatku
-
-### Tropy a figury a jejich funkce ve výňatku
 
 ## Literárněhistorický kontextu
 

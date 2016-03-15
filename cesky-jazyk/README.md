@@ -13,7 +13,7 @@
 
 1. **Česká poezie a próza 19. století**
 
-  - Mácha: Máj
+  - [Mácha: Máj](maj-karel-hynek-macha.md)
   - Erben: Kytice
   - Čech: Nový epochální výlet pana Broučka, tentokráte do XV. století
 

@@ -1,9 +1,10 @@
 # Maturitní témata SPŠ Česká Lípa
 
-*2015-2016, obor Informační technologie*
+Zpracováno pro školní rok 2015-2016, obor Informační technologie. Příspívání obsahem či hlášení chyb je vítáno.
 
 ## Okruhy
 
 - [Český Jazyk](cesky-jazyk)
-- [Hardware](hardware)
 - [Software](software)
+
+## [Licence](LICENSE)
