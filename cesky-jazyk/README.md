@@ -4,7 +4,7 @@
 
   - Boccaccio: Dekameron (překl. Radovan Krátký)
   - Defoe: Robinson Crusoe (překl. Albert Vyskočil)
-  - Komenský: Labyrint světa a ráj srdce
+  - [Komenský: Labyrint světa a ráj srdce](labyrint-sveta-a-raj-srdce_jan-amos-komensky.md)
 
 1. **Světová literatura 19. století**
 
@@ -13,7 +13,7 @@
 
 1. **Česká poezie a próza 19. století**
 
-  - [Mácha: Máj](maj-karel-hynek-macha.md)
+  - [Mácha: Máj](maj_karel-hynek-macha.md)
   - Erben: Kytice
   - Čech: Nový epochální výlet pana Broučka, tentokráte do XV. století
 
