@@ -18,7 +18,7 @@ Teologičtější. Starozákonní Šalamoun ve své knize Kazatel nenašel řeš
 
 - **téma**
 
-Pomíjivost světa.
+Pomíjivost světa
 
 - **motiv**
 
@@ -30,21 +30,21 @@ Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve svět
 
 ### Kompoziční výstavba
 
-Chronologická.
+Chronologická
 
 ### Literární druh a žánr
 
 - **druh**
 
-Epika.
+Epika
 
 - **žánr**
 
-Filozofický román (alegorie).
+Filozofický román (alegorie)
 
 ### Vypravěč / lyrický subjekt
 
-Poutník. 
+Poutník
 
 ### Postava
 
@@ -67,6 +67,8 @@ Přímá řeč.
 ### Typy promluv
 
 ### Veršovaná výstavba
+
+\-\-\-
 
 ## Literárněhistorický kontextu
 

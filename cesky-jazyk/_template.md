@@ -22,7 +22,7 @@
 
 ### Veršovaná výstavba
 
-## Literárněhistorický kontextu
+## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
 
