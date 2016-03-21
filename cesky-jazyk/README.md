@@ -3,7 +3,7 @@
 1. **Světová a česká literatura do konce 18. století**
 
   - Boccaccio: Dekameron (překl. Radovan Krátký)
-  - Defoe: Robinson Crusoe (překl. Albert Vyskočil)
+  - [Defoe: Robinson Crusoe](robinson-crusoe_daniel-defoe.md) (překl. Albert Vyskočil)
   - [Komenský: Labyrint světa a ráj srdce](labyrint-sveta-a-raj-srdce_jan-amos-komensky.md)
 
 1. **Světová literatura 19. století**
@@ -21,7 +21,7 @@
 
   - Čapek K.: RUR
   - Shakespeare: Romeo a Julie (překl. Erich Adolf Saudek)
-  - Moliére: Lakomec (překl. Erich Adolf Saudek)
+  - [Moliére: Lakomec](lakomec_moliere.md) (překl. Erich Adolf Saudek)
 
 1. **Světová a česká poezie 20. a 21. století**
 
