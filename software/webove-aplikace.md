@@ -81,7 +81,7 @@ Pokud máme URL adresu této podoby `www.something.com/demo_form.php?name1=value
 
 ### 15. K čemu slouží ASP u webových aplikací.
 
-Obdoba PHP od Microsoftu. Využívá se pro psaní serveroví části aplikace. Lze využívat .NET jazyků, jako např. C# nebo VB. 
+Obdoba PHP od Microsoftu. Využívá se pro psaní serverové části aplikace. Lze využívat .NET jazyků, jako např. C# nebo VB. 
 
 ### 16. Uveďte frameworky, které lze použít na serverové části web. aplikace a související technologie.
 
