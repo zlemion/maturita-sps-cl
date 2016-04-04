@@ -82,7 +82,7 @@ private void Form1_MouseMove(object sender, MouseEventArgs e)
 
 Pascal:
 ```pascal
-procedure TForm1.ScrollBar1Scroll(Sender: TObjekct; ScrollCode: TScrollCode; var ScrollPos: Integer);
+procedure TForm1.ScrollBar1Scroll(Sender: TObject; ScrollCode: TScrollCode; var ScrollPos: Integer);
 begin
   ...
 end;
