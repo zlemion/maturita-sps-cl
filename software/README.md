@@ -15,7 +15,7 @@
 1. Strukturované programování
 1. Objektově orientované programování
 1. [Událostmi řízené programování](udalostmi-rizene-programovani.md)
-1. Webové aplikace
+1. [Webové aplikace](webove-aplikace.md)
 1. Komunikace na linkové vrstvě OSI/ISO - aktivní prvky
 1. Komunikace na síťové vrstvě OSI/ISO - směrovače
 1. Bezdrátové sítě
