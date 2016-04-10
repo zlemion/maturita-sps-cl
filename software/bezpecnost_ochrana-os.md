@@ -44,4 +44,8 @@ Antivirový software skenuje a vyhledává potencionálně nebezpečný software
 
 ## Jak pracuje ochrana UAC – popis, výhody, omezení 
 
-UAC je bezpečnostní technologie, která vyžaduje oprávnění uživatele na prováďění akcí.
+UAC je bezpečnostní technologie, která omezuje oprávnění aplikace na úroveň uživatele, dokud administrátor nepotvrdí zvýšení práv aplikace.
+
+Kdykoliv chce nějaký program provést změnu PC tento nástroj nás upozorní a požádá o povolení. Ve výchozím nastavení je upozorňováno na každou změnu. Lze nastavin: Upozornit pokaždé, Upozornit, když se aplikace pokusí o změnu v PC, nebo i Nikdy.
+
+Výhodou je zvýšení zabezpečení systému na úkor "otravování" uživatele s povolením.
