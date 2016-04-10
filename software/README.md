@@ -19,9 +19,9 @@
 1. Komunikace na linkové vrstvě OSI/ISO - aktivní prvky
 1. Komunikace na síťové vrstvě OSI/ISO - směrovače
 1. Bezdrátové sítě
-1. GNU/Linux - struktura, zavádění OS
-1. Windows - struktura, zavádění OS
-1. GNU/Linux - instalace a konfigurace OS
-1. Windows - instalace a konfigurace OS
-1. Bezpečnost - záloha a obnova dat
-1. Bezpečnost - ochrana OS
+1. [GNU/Linux - struktura, zavádění OS](linux_struktura-a-zavadeni-os.md)
+1. [Windows - struktura, zavádění OS](windows_struktura-a-zavadeni-os.md)
+1. [GNU/Linux - instalace a konfigurace OS](linux_instalace-a-konfigurace-os.md)
+1. [Windows - instalace a konfigurace OS](windows_instalace-a-konfigurace-os.md)
+1. [Bezpečnost - záloha a obnova dat](bezpecnost_zaloha-a-obnova-dat.md)
+1. [Bezpečnost - ochrana OS](bezpecnost_ochrana-os.md)
