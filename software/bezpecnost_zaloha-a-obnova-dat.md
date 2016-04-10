@@ -20,6 +20,8 @@ Zálohování dat provádím z toho důvodu, kdyby se něco stalo s tím soubore
 
 ### Popište Způsob vytvoření a obnovy OS z bitového obrazu disku, Rescue CD/USB 
 
+Postupuje se jako při instalaci. Zvolí se možnost Opravit tento počítač, kde lze vybrat obnovu ze zálohy a systém prohledá všechny dostupné lokální pevné disky a pokusí se sehnat informace o uložených bitových kopiích.
+
 ### Které znáte Integrované nástroje operačních systémů (Windows/Linux)  
 
 ### Jaké znáte GNU/proprietární zálohovací software 3. stran 
@@ -44,9 +46,19 @@ Je vhodné také zálohovat na flash disk či CD při každé velké úpravě da
 
 ### Stručnou Definice škodlivého software
 
+Škodlivý program je takový program, který se chová mimo očekávání uživatele, tj. např. krade, maže, nahrává, stahuje... data.
+
 ### Vysvětlete Princip základní integrované ochrany OS Linux/Windows (root/administrátor) – rizika administrátorských účtů, UAC - windows
 
+**UAC** je bezpečnostní technologie, která zvyčuje bezpečnost omezením oprávnění aplikacím na úroveň uživatele, dokud administrátor nepotvrdí zvýšení práv aplikace. 
+
+Tento nástroj nás také upozorní kdykoli chce program provést změnu v PC.
+
 ### Popište SW ochranu – firewall/antivirové programy, rozdíl, použití
+
+Antivirové systémy slouží pro identifikaci, odstranění a eliminaci PC virů a jiného škodlivého SW.
+
+Nejpoužívanějšími a nezjznámějšími programy jsou **Avast!**, **AVG**, **McAfee** a **ESET**. Všechny programy se liší schopností identifikovat e eliminovat škodlivé SW, což závisí především na databázi virů a aplikovaném algoritmu.
 
 ### Jaký je význam funkčního systému Windows Update
 
