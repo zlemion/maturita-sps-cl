@@ -2,6 +2,8 @@
 
 ## Popište Význam zálohování dat - základní příčiny ztráty dat, rozdělení
 
+Zálohování dat provádím z toho důvodu, kdyby se něco stalo s tím souborem/oddílem, kde mám uložené důležité informace, abych o ně nepřišel. Příčina: opotřebení, vyhoření, hacker(vir) Zálohování se dá rozdělit do dvou skupin: zálohování celých disků nebo oddílů a zálohování souborů a složek.
+
 ### Jaké znáte Základní rozdělení a výběry typu záloh
 
 ### Popište Zálohování lokálního počítače – zálohovací média, typy, výhody/nevýhody 
@@ -22,13 +24,23 @@
 
 ### Jaké znáte GNU/proprietární zálohovací software 3. stran 
 
+Pro zálohování, resp. přímo verzování, je vhodné použít Git, což je nejpoužívanější software pro zálohování a verzování především při vývoji programů.
+
 ## Vysvětlete a popište termín Strategie odděleného zálohování OS a uživatelských dat – řešení v GNU/Linux, Windows, význam, výhody
 
 ## Windows7/8: vysvětlete termíny diskové oddíly, Rescue oddíl, význam, použití; adresář User, popis, význam, možnosti přesměrování adresáře na jiný diskový oddíl 
 
 ## Jak provádíme Ruční/automatickou zálohu dat – rozdíly, výhody/nevýhody, využití programu MS Sheduler, Cron/GNU Linux
 
+Automatická záloha dat využívá programů, které automaticky verzují data, kdežto ruční záloha dat zpočívá v kopírování souborů s daty na zálohovací médium či místo.
+
+Automatické zálohovací metody mají mnoho výhod, ať už jen pravidelné a automatické (tzn. nemusím nic dělat, udělá se to samo) zálohování či verzování.
+
 ## Vyjmenujte hlavní rizika poškození nebo ztráty dat
+
+Hlavní rizika poškození nebo ztráty dat je právě ztráta informací, která jsou uloženy v datech. Data je vhodné zálohovat nejrůznějšími metodami, zejména zálohováním na cloud servery jako Dropbox, Mega nebo Google Disk, kde je větší jistota, že data zůstanou neporušena. 
+
+Je vhodné také zálohovat na flash disk či CD při každé velké úpravě dat.
 
 ### Stručnou Definice škodlivého software
 
@@ -37,3 +49,5 @@
 ### Popište SW ochranu – firewall/antivirové programy, rozdíl, použití
 
 ### Jaký je význam funkčního systému Windows Update
+
+Windows Update přináší bezpečností záplaty, vylepšení systému atp. Je vhodné jej používat, protože odbourává (nebo by alespoň měl) potencionálně slabá místa systému.
