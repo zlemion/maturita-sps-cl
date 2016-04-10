@@ -1,6 +1,6 @@
 # Windows: Instalace a konfigurace OS
 
-## Windows: popište instalaci OS/SW, instalační média
+## Popište instalaci OS/SW, instalační média
 
 ### Nastavení BIOSu, popište výhody rozdělení disku
 
@@ -10,7 +10,7 @@
 
 ### Jaké znáte Adresáře pro systémové a uživatelské programy v OS Windows
 
-## Windows: základní údržba OS 
+## Základní údržba OS 
 
 ### Jak se Aktualizují ovladače - postup
 
@@ -20,7 +20,7 @@
 
 ### Vysvětlete termín Správa paměti – FAP/LAP, pagefile.sys – význam, nastavení velikosti
 
-## Windows: jak se vytvoří uživatelský profil, jeho význam
+## Jak se vytvoří uživatelský profil, jeho význam
 
 ### Vyjmenujte Základní typy účtů - vysvětlete termín UAC, význam
 

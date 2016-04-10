@@ -1,6 +1,6 @@
 # Windows: Struktura a zavedení OS
 
-## Windows: vysvětlete termín souborové systémy – jejich rozdělení, druhy
+## Vysvětlete termín souborové systémy – jejich rozdělení, druhy
 
 ### Co je stromová struktura adresářů – důležité systémové adresáře
 
@@ -8,7 +8,7 @@
 
 ### Vysvětlete termín Knihovny, atributy souborů, dočasné soubory – jejich umístění, význam
 
-## Windows: jak probíhá bootování OS: 
+## Jak probíhá bootování OS: 
 
 ### Popište strukturu HDD, stopy, sektory, cylindry
 
@@ -16,7 +16,7 @@
 
 ### Jak provedeme Opravu MBR – Win7/8
 
-## Windows: vyjmenujte vrstvy OS Windows, jejich základní popis  
+## Vyjmenujte vrstvy OS Windows, jejich základní popis  
 
 ### Vysvětlete termín Kernel – jeho význam (porovnejte s Linuxem)
 

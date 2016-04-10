@@ -8,13 +8,13 @@
 
 ### Popište Program pro rozdělení disků 
 
-## Linux: konfigurace systému, popište způsob konfigurace OS, konfigurační soubory – jejich umístění 
+## Konfigurace systému, popište způsob konfigurace OS, konfigurační soubory – jejich umístění 
 
 ### Nastavení systému - GUI: umístění, základní nástroje
 
 ### Jak se konfigurují sítě – nastavení síťové karty (IPadresa, maska, brána, DNS - GUI)
 
-## Linux: instalace / odinstalování SW - vysvětlete termín repozitáře, popis, význam
+## Instalace / odinstalování SW - vysvětlete termín repozitáře, popis, význam
 
 ### Jaká je Struktura programu v GNU/Linuxu, co jsou balíčky, příznak X
 
