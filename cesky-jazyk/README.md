@@ -2,14 +2,14 @@
 
 1. **Světová a česká literatura do konce 18. století**
 
-  - [Boccaccio: Dekameron](dekameron_giovanni-boccacio.md) (překl. Radovan Krátký)
+  - [Boccaccio: Dekameron](dekameron_giovanni-boccaccio.md) (překl. Radovan Krátký)
   - [Defoe: Robinson Crusoe](robinson-crusoe_daniel-defoe.md) (překl. Albert Vyskočil)
   - [Komenský: Labyrint světa a ráj srdce](labyrint-sveta-a-raj-srdce_jan-amos-komensky.md)
 
 1. **Světová literatura 19. století**
 
   - [Hugo: Chrám Matky Boží v Paříži](chram-matky-bozi-v-parizi_victor-hugo.md) (překl. Milena Tomášová)
-  - Baudelaire: Květy zla (překl. Svatopluk Kadlec)
+  - [Baudelaire: Květy zla](kvety-zla_charles-baudelaire.md) (překl. Svatopluk Kadlec)
 
 1. **Česká poezie a próza 19. století**
 
