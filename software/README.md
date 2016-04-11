@@ -8,12 +8,12 @@
 1. Kaskádové styly CSS
 1. Značkovací jazyk XML
 1. Databáze a dotazovací jazyk SQL
-1. Algoritmizace
-1. Datové struktury
-1. Vývojové diagramy, UML a návrhové vzory
-1. Vyhledávající a třídící algoritmy
-1. Strukturované programování
-1. Objektově orientované programování
+1. [Algoritmizace](algoritmizace.md)
+1. [Datové struktury](datove-struktury.md)
+1. [Vývojové diagramy, UML a návrhové vzory](vyvojove-diagramy.md)
+1. [Vyhledávající a třídící algoritmy](vyhledavaci-a-tridici-algoritmy.md)
+1. [Strukturované programování](strukturovane-programovani.md)
+1. [Objektově orientované programování](objektove-orientovane-programovani.md)
 1. [Událostmi řízené programování](udalostmi-rizene-programovani.md)
 1. [Webové aplikace](webove-aplikace.md)
 1. Komunikace na linkové vrstvě OSI/ISO - aktivní prvky
